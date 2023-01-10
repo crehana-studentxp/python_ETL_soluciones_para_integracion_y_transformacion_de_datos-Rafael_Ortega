@@ -6,7 +6,7 @@
   <a href="https://www.crehana.com/clases/v2/18084/detalle/">
     <img src="images/curso.png" alt="Logo" width="160" height="50">
   </a>
-  <a href="https://www.linkedin.com/in/rafael-ortega-c-52933850/">
+  <a href="https://www.linkedin.com/in/rafaelortegar/">
     <img src="images/teacher.png" alt="Logo" width="160" height="50">
   </a>
 </div>
